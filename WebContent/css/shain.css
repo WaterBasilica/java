@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+
+.content {
+	width: 700px;
+	height: 250px;
+	margin: 0 auto;
+	background-color: #0080ff;
+	padding: 1px 20px;
+}
+
+h2 {
+	text-align: center;
+}
+
+#list-area {
+	background-color: #008040;
+}

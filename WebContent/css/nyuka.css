@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+	background:url("../img/img.jpg");
+}
+
+.kensaku-area {
+	width: 700px;
+	height: 270px;
+	margin: 0 auto;
+	background-color: #e688c7;
+	padding: 1px  20px;
+
+}
+
+h2 {
+	text-align: center;
+}
+
+#list-area {
+	backgtound-color: #fff;"
+}

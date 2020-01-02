@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body {
+	background:url("../img/img.jpg");
+
+}
+.content {
+	width: 480px;
+	height: 600px;
+	margin: 0 auto;
+	background: rgba(200,200,200,0,4);
+	box-shadow: 10px 10px 10px rgba(0,0,0,0,6);
+	padding: 20px;
+	border-radius: 6px
+}
+
+h1,h2 {
+	text-align: center;
+	color: #2d1eb3;
+}
+label {
+	display: block;
+	margin-top: 13px;
+	color: #2d1eb3;
+}
+button {
+	display: block;
+	padding: 8px;
+	width: 100%;
+	border-radius: 13px;
+	background-color: blue;
+}
+input {
+	width: 100%;
+	height: 32px;
+	border-radius: 6px;
+	background-color: #ffff66;
+}
+select {
+	background-color: #ffff66;
+}
+button:hover {
+	background-hover: 10px;
+}
